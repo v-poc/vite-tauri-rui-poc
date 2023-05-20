@@ -32,7 +32,8 @@ npm run build
 
 > The bundle dmg for macOS:
 > - `/vite-tauri-rui-poc/src-tauri/target/release/bundle/dmg/vite-tauri-rui-poc_(VERSION)_aarch64.dmg`
-> The bundle dmg for windows:
+>
+> The bundle exe for windows:
 > - `/vite-tauri-rui-poc/src-tauri/target/release/bundle/msi/vite-tauri-rui-poc_(VERSION)_x64_en-US.msi`
 > - `/vite-tauri-rui-poc/src-tauri/target/release/bundle/nsis/vite-tauri-rui-poc_(VERSION)_x64-setup.exe`
 
