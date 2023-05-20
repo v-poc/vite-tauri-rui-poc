@@ -69,7 +69,7 @@ npm run build
 
 ### Customize configuration
 
-About vite and electron, please check Configuration Reference - [vite](https://vitejs.dev/config/) | [tauri](https://tauri.app/).
+About vite and tauri, please check Configuration Reference - [vite](https://vitejs.dev/config/) | [tauri](https://tauri.app/).
 
 ## License
 
