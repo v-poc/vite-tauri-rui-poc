@@ -71,8 +71,10 @@ npm run build
     - bundler: Vite
 ```
 
+
 ```
 > tauri "info" - windows
+
 
 [✔] Environment
     - OS: Windows 10.0.19044 X64
